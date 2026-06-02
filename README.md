@@ -83,7 +83,7 @@ Developed a predictive analytics model to forecast stock prices using historical
 ## 🌐 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/sri-devi-3b05a2354
-- Email: shriiidevi.m
+- Email: shriiidevi.m@gmail.com
 
 ---
 
